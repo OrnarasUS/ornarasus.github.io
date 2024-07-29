@@ -1,1 +1,47 @@
-{"singlePage": [], "startSite": "", "filingNum": "", "onePageListNum": 15, "commentLabelColor": "#006b75", "yearColorList": ["#bc4c00", "#0969da", "#1f883d", "#A333D0"], "i18n": "CN", "themeMode": "manual", "dayTheme": "light", "nightTheme": "dark", "urlMode": "pinyin", "script": "", "style": "", "head": "", "indexScript": "", "indexStyle": "", "bottomText": "", "showPostSource": 1, "iconList": {}, "UTC": 8, "rssSplit": "sentence", "exlink": {}, "needComment": 1, "allHead": "", "title": "\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u0431\u0430\u0437\u0430 Ornaras'\u0430", "subTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043e\u043a", "avatarUrl": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg", "GMEEK_VERSION": "last", "postListJson": {"P1": {"htmlDir": "docs/post/Hello World!.html", "labels": ["\u0411\u043b\u043e\u0433"], "postTitle": "Hello World!", "postUrl": "post/Hello%20World%21.html", "postSourceUrl": "https://github.com/ornarasus/ornarasus.github.io/issues/1", "commentNum": 0, "description": "", "wordCount": 0, "top": 0, "createdAt": 1722232448, "style": "", "script": "", "head": "", "ogImage": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg", "createdDate": "2024-07-29", "dateLabelColor": "#bc4c00"}, "P2": {"htmlDir": "docs/post/Hello World Test 2.html", "labels": ["\u0411\u043b\u043e\u0433"], "postTitle": "Hello World Test 2", "postUrl": "post/Hello%20World%20Test%202.html", "postSourceUrl": "https://github.com/ornarasus/ornarasus.github.io/issues/2", "commentNum": 0, "description": "", "wordCount": 0, "top": 0, "createdAt": 1722233019, "style": "", "script": "", "head": "", "ogImage": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg", "createdDate": "2024-07-29", "dateLabelColor": "#bc4c00"}}, "singeListJson": {}, "labelColorDict": {"\u0411\u043b\u043e\u0433": "#1D76DB"}, "displayTitle": "\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u0431\u0430\u0437\u0430 Ornaras'\u0430", "faviconUrl": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg", "ogImage": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg", "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />", "homeUrl": "https://ornarasus.github.io", "prevUrl": "disabled", "nextUrl": "disabled"}
+{
+  "singlePage": [],
+  "startSite": "",
+  "filingNum": "",
+  "onePageListNum": 15,
+  "commentLabelColor": "#006b75",
+  "yearColorList": [
+    "#bc4c00",
+    "#0969da",
+    "#1f883d",
+    "#A333D0"
+  ],
+  "i18n": "RU",
+  "themeMode": "manual",
+  "dayTheme": "light",
+  "nightTheme": "dark",
+  "urlMode": "pinyin",
+  "script": "",
+  "style": "",
+  "head": "",
+  "indexScript": "",
+  "indexStyle": "",
+  "bottomText": "",
+  "showPostSource": 1,
+  "iconList": {},
+  "UTC": 4,
+  "rssSplit": "sentence",
+  "exlink": {},
+  "needComment": 1,
+  "allHead": "",
+  "title": "Домашняя база Ornaras'а",
+  "subTitle": "История разработок",
+  "avatarUrl": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg",
+  "GMEEK_VERSION": "last",
+  "postListJson": {},
+  "singeListJson": {},
+  "labelColorDict": {
+    "Блог": "#1D76DB"
+  },
+  "displayTitle": "Домашняя база Ornaras'а",
+  "faviconUrl": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg",
+  "ogImage": "https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg",
+  "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+  "homeUrl": "https://ornarasus.github.io",
+  "prevUrl": "disabled",
+  "nextUrl": "disabled"
+}
