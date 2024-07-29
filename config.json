@@ -2,5 +2,7 @@
     "title":"Домашняя база Ornaras'а",
     "subTitle":"История разработок...",
     "avatarUrl":"https://raw.githubusercontent.com/ornarasus/ornarasus.github.io/main/85742833.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "i18n": "RU",
+    "themeMode": "dark"
 }
